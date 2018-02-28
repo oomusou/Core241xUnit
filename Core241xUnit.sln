@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberLib", "NumberLib\NumberLib.csproj", "{9CD42AD6-4C74-4B9D-B804-35EB53B41CC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberLibTest", "NumberLibTest\NumberLibTest.csproj", "{26DF193F-8AD1-417F-9C50-2C11FE2A0E21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CD42AD6-4C74-4B9D-B804-35EB53B41CC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD42AD6-4C74-4B9D-B804-35EB53B41CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD42AD6-4C74-4B9D-B804-35EB53B41CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD42AD6-4C74-4B9D-B804-35EB53B41CC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26DF193F-8AD1-417F-9C50-2C11FE2A0E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26DF193F-8AD1-417F-9C50-2C11FE2A0E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26DF193F-8AD1-417F-9C50-2C11FE2A0E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26DF193F-8AD1-417F-9C50-2C11FE2A0E21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
